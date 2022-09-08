@@ -1,0 +1,3 @@
+# Execute Test
+
+./gradlew test
